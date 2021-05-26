@@ -9,7 +9,6 @@
   >
     <help-text    
       class="error-text mt-2 text-danger p-4"
-      v-if="hasError"
     >
       {{ firstError }}
     </help-text>
